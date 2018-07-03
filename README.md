@@ -1,1 +1,1 @@
-# Library-Management
+#  Its a Library Managemnet site which is used to add books , find books , issue books , delete books and includes all other library process and contains two users - one of students and second of Librarian. Currently its on localhost , code will will be updated later.
